@@ -1,7 +1,5 @@
 # Overview
-
 ---
-
 ## Description
 The scope of Cryptomorrow is to onboard and educate the next generation of cryptocurrency users through the use of games, books, music and any other form of entertainment that can be created, bought and traded on a blockchain network.  Kids under the age of 18 (eighteen) will have to attain a parent or guardian's permission to play the game.  Cryptomorrow will not only seek to encourage and educate the next generation about cryptocurrency, but also mitigate the issues that centralized monetray systems have created, are creating and will create.  See the following link:  https://duckduckgo.com/?q=the+threat+of+fiat+currencies&atb=v231-1&ia=web
 
