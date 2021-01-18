@@ -21,4 +21,4 @@ Note - Both of these methods of making in-game to real-world token conversions e
 
 6)  To insure that a player started playing Cryptomorrow while under the age of 18 (eighteen) years old, there will be some mechanism for the player to prove their age once they turn 18 (eighteen).  The mechanism by which a player proves their age will be determined by proposals set forth and agreed upon by the Cryptomorrow Community. If the player cannot prove their age in a timeframe determined by the Cryptomorrow Community, that player's in-game (CTIG) tokens will be burned.  This burning of invalidated in-game tokens (CTIG) will have the effect of increasing the value of all other in-game (CTIG) tokens that remain in the Cryptomorrow ecosystem.  There will be a means to alert all players of the increase in the value of their in-game (CTIG) tokens, due to the burning of the invalidated in-game tokens (CTIG) as described above.
 
-![](images/Cryptomorrow%20Flow%20Chart.pdf)
+![](documentss/Cryptomorrow%20Flow%20Chart.pdf)
