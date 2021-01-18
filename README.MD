@@ -1,9 +1,9 @@
-Overview
+# Overview
 
-Description
+## Description
 The scope of Cryptomorrow is to onboard and educate the next generation of cryptocurrency users through the use of games, books, music and any other form of entertainment that can be created, bought and traded on a blockchain network.  Kids under the age of 18 (eighteen) will have to attain a parent or guardian's permission to play the game.  Cryptomorrow will not only seek to encourage and educate the next generation about cryptocurrency, but also mitigate the issues that centralized monetray systems have created, are creating and will create.  See the following link:  https://duckduckgo.com/?q=the+threat+of+fiat+currencies&atb=v231-1&ia=web
 
-Goals
+## Goals
 1)  Cryptomorrow will seek to incentivize the next generation of blockchain and cryptocurrency users.  In this effort, Cryptomorrow will create games for kids under the age of 18 (eighteen) years that incentivize players with in-game tokens (CTIG) that mature into real-world tokens (ADA) ocne the player reaches the age of 18 (eighteen) years.
 
 2)  Cryptomorrow will seek to develop a Cryptomorrow Community that will set up, maintain and monitor an escrow account on a blockchain that will be made available to those players turning 18 (eighteen) years of age.
@@ -22,6 +22,6 @@ Note - Both of these methods of making in-game to real-world token conversions e
 6)  To insure that a player started playing Cryptomorrow while under the age of 18 (eighteen) years old, there will be some mechanism for the player to prove their age once they turn 18 (eighteen).  The mechanism by which a player proves their age will be determined by proposals set forth and agreed upon by the Cryptomorrow Community. If the player cannot prove their age in a timeframe determined by the Cryptomorrow Community, that player's in-game (CTIG) tokens will be burned.  This burning of invalidated in-game tokens (CTIG) will have the effect of increasing the value of all other in-game (CTIG) tokens that remain in the Cryptomorrow ecosystem.  There will be a means to alert all players of the increase in the value of their in-game (CTIG) tokens, due to the burning of the invalidated in-game tokens (CTIG) as described above.
 
 
-**Cryptomorrow Flow Chart**.
+## **Cryptomorrow Flow Chart**.
 
 ![](images/CryptomorrowFlowChart.png)
