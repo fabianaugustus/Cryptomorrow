@@ -25,6 +25,6 @@ Note - Both of these methods of making in-game to real-world token conversions e
 
 ---
 
-## **Cryptomorrow Flow Chart**
+# **Cryptomorrow Flow Chart**
 
 ![](images/CryptomorrowFlowChart.png)
