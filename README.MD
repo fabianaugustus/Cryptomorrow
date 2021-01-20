@@ -42,7 +42,7 @@ The Cryptomorrow escrow account will be funded by the sell of NFTs (digital art,
 Android App version of the book "Solutions: Enough complaining. Let's fix America"
 https://play.google.com/store/apps/details?id=com.solutions.miksonsentertainment.solutions
 
-# **This App also contains an example of the games that will be provided to younger players when the Cryptomorrow Dapp is initially rolled out.  This game is intentionally simple as games for older users will be progressively more complex, requiring more design, development and testing.
+### ___This App also contains an example of the games that will be provided to younger players when the Cryptomorrow Dapp is initially rolled out.  This game is intentionally simple as games for older users will be progressively more complex, requiring more design, development and testing.___
 
 Android App version of the children's book "Far Beyond" which also contains 3 (three) levels of a story-themed game.
 https://play.google.com/store/apps/details?id=com.miksonsentertainment.farbeyond
