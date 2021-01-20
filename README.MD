@@ -32,3 +32,19 @@ Note - Both of these methods of making in-game to real-world token conversions e
 # **Cryptomorrow Submission Schedule**
   ___Click on image of schedule to enlarge then use the slider below the schedule image to view.___
 ![Click To Enlarge](images/CryptomorrowSubmissionSchedule.png)
+
+---
+
+# **Examples of items to be sold to fund in-game token to real-world token conversion escrow account**
+
+The Cryptomorrow escrow account will be funded by the sell of NFTs (digital art, animation, music, photography, etc).  The escrow account will be verified and monitored by the Cryptomorrow Community.  This account could also be funded by benefactors who choose to donate to the player(s) of their choice in the form of a trust fund.  There will be a fee associated with the trust fund to provide an additional revenue source for the escrow fund.
+
+Android App version of the book "Solutions: Enough complaining. Let's fix America"
+https://play.google.com/store/apps/details?id=com.solutions.miksonsentertainment.solutions
+
+# **This App also contains an example of the games that will be provided to younger players when the Cryptomorrow Dapp is initially rolled out.  This game is intentionally simple as games for older users will be progressively more complex, requiring more design, development and testing.
+
+Android App version of the children's book "Far Beyond" which also contains 3 (three) levels of a story-themed game.
+https://play.google.com/store/apps/details?id=com.miksonsentertainment.farbeyond
+
+
