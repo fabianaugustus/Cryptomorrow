@@ -30,5 +30,5 @@ Note - Both of these methods of making in-game to real-world token conversions e
 ---
 
 # **Cryptomorrow Submission Schedule**
-  ___Click on schedule image to enlarge then use slider at bottom of page to view.___
+  ___Click on image of schedule to enlarge then use the slider below the schedule image to view.___
 ![](images/CryptomorrowSubmissionSchedule.png)
