@@ -39,6 +39,13 @@ Note - Both of these methods of making in-game to real-world token conversions e
 
 The Cryptomorrow escrow account will be funded by the sell of NFTs (digital art, animation, music, photography, etc).  The escrow account will be verified and monitored by the Cryptomorrow Community.  This account could also be funded by benefactors who choose to donate to the player(s) of their choice in the form of a trust fund.  There will be a fee associated with the trust fund to provide an additional revenue source for the escrow fund.
 
+### **ART: The Gallowry**
+![](images/TheGallowry.gif)
+
+---
+
+### **Books**
+
 #### *If you are uncomfortable clicking on links, visit the Google Play Store and search for the following "Chris Ossman Far Beyond" or "Chris Ossman Far Solutions" (without the quotes).
 
 Android App version of the book "Solutions: Enough complaining. Let's fix America"
