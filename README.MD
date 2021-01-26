@@ -86,4 +86,12 @@ Another game to be developed for various levels (ages):
 
 The simpified rules for "This or That" are as follows:
 
-
+This or That (2 – 10 players (maybe more))
+Equipment (game pieces, dice, cards, board (with levels)
+Game Play:
+1. Active player draws a card from the “choices” pile
+2. Active player picks one of two, three four (TBD) choices on the card
+3. The player sitting opposite the Active player (Opposing Player) picks a card from the “Consequences” pile
+4. The Active player rolls the dice to determine the consequence of their choice.
+5. The Opposing player reads aloud the consequence associated with the number on the dice rolled by the Active player
+6. The game lasts until a player lands in the winners circle or whatever it will be called (TBD)
