@@ -72,3 +72,18 @@ https://play.google.com/store/apps/details?id=com.miksonsentertainment.farbeyond
 Far Beyond demo video
 https://www.youtube.com/watch?v=bZ0go7uJoE0
 
+Another game to be developed for various levels (ages):
+"I Was First"
+
+In the is game the player will advance by solving progressively harder puzzles.  The pplayer will move from his or her bedroom where they will be playing solo.  Once out of their bedroom, the player will move to a room (livingroom, kitchen, etc.) where they can play against friends and/or family).  Once a player figures out all of the puzzles in the (livingroom, kitchen, etc.) they will move to a larger space (auditorium, gymnasium, playground, etc) where they can play against friends, family or even people they don't know.  
+
+The point of the game is to be the first to leave the room by solving the room's final puzzle.  It will be like a virtual escape room and will serve as a means to educate children about aspects of cryptocurrency like blockchain mining.
+
+The rooms and puzzles will be age-appropriate as the prizes and puzzles will be more complex and geared towards players of various ages.
+
+Another game to be developed for various levels (ages):
+"This or That"
+
+The simpified rules for "This or That" are as follows:
+
+
