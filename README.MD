@@ -76,11 +76,12 @@ https://play.google.com/store/apps/details?id=com.miksonsentertainment.farbeyond
 
 #### *If you are uncomfortable clicking on links, visit the Youtube.com and search for the following "Far Beyond Game Marketing" (without the quotes).
 
-Far Beyond demo video
+**Far Beyond demo video**
 https://www.youtube.com/watch?v=bZ0go7uJoE0
 
-Another game to be developed for various levels (ages):
-"I Was First"
+---
+
+**Another game to be developed for various levels (ages):  "I Was First"**
 
 In the is game the player will advance by solving progressively harder puzzles.  The pplayer will move from his or her bedroom where they will be playing solo.  Once out of their bedroom, the player will move to a room (livingroom, kitchen, etc.) where they can play against friends and/or family).  Once a player figures out all of the puzzles in the (livingroom, kitchen, etc.) they will move to a larger space (auditorium, gymnasium, playground, etc) where they can play against friends, family or even people they don't know.  
 
@@ -88,8 +89,9 @@ The point of the game is to be the first to leave the room by solving the room's
 
 The rooms and puzzles will be age-appropriate as the prizes and puzzles will be more complex and geared towards players of various ages.
 
-Another game to be developed for various levels (ages):
-"This or That"
+---
+
+**Another game to be developed for various levels (ages): "This or That"**
 
 The simpified rules for "This or That" are as follows:
 
