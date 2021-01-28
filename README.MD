@@ -36,9 +36,9 @@ Note - Both of these methods of making in-game to real-world token conversions e
 
 ---
 
-# **Cryptomorrow Submission Schedule**
+# **Cryptomorrow Fund3 Schedule**
   ___Click on image of schedule to enlarge then use the slider below the schedule image to view.___
-![Click To Enlarge](images/CryptomorrowSubmissionSchedule.png)
+![Click To Enlarge](images/CryptomorrowFund3ScheduleJan282021.png)
 
 ---
 
