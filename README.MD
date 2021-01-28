@@ -51,7 +51,7 @@ The Cryptomorrow escrow account will be funded by the sell of NFTs (digital art,
 
 ---
 
-### **Board Games: Dimensions**
+### **Board Games: Dimensions (a multi-level, multi-player game with a randomized mechanical board/tower)**
 
 #### **Prototype mechanical multi-level board**
 ![](images/DimensionsBoardProtype.png)
