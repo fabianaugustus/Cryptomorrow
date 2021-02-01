@@ -76,8 +76,7 @@ https://play.google.com/store/apps/details?id=com.miksonsentertainment.farbeyond
 
 #### *If you are uncomfortable clicking on links, visit the Youtube.com and search for the following "Far Beyond Game Marketing" (without the quotes).
 
-**Far Beyond demo video**
-![](images/FarBeyondDemoSCreenShot.png)
+**Far Beyond demo video screenshot**
 
 https://www.youtube.com/watch?v=bZ0go7uJoE0
 
