@@ -97,8 +97,8 @@ The rooms and puzzles will be age-appropriate as the prizes and puzzles will be 
 
 ---
 
-**Another game to be developed for various levels (ages): "This or That"**
-**Flow chart for the game "This or That" coming soon.**
+#### **Another game to be developed for various levels (ages): "This or That"**
+#### **Flow chart for the game "This or That" coming soon.**
 
 The simpified rules for "This or That" are as follows:
 
