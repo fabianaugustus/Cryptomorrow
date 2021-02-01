@@ -72,7 +72,7 @@ https://play.google.com/store/apps/details?id=com.miksonsentertainment.farbeyond
 
 ---
 
-# **Cryptomorrow example game (Level One: 10 year old**
+# **Cryptomorrow example game (Level One: 10 year old)**
 
 #### *If you are uncomfortable clicking on links, visit the Youtube.com and search for the following "Far Beyond Game Marketing" (without the quotes).
 
@@ -89,9 +89,13 @@ The point of the game is to be the first to leave the room by solving the room's
 
 The rooms and puzzles will be age-appropriate as the prizes and puzzles will be more complex and geared towards players of various ages.
 
+**Flow chart for level one of the game "I Was First!"**
+![](images/IWasFirst.png)
+
 ---
 
 **Another game to be developed for various levels (ages): "This or That"**
+**Flow chart for the game "This or That" coming soon.**
 
 The simpified rules for "This or That" are as follows:
 
