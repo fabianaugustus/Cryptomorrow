@@ -30,6 +30,12 @@ Note - Both of these methods of making in-game to real-world token conversions e
 
 ---
 
+# **Proposed Cryptomorrow Token Symbol**
+
+![](images/CryptomorrowToken.png)
+
+---
+
 # **Cryptomorrow Flow Chart**
 
 ![](images/CryptomorrowFlowChart.png)
