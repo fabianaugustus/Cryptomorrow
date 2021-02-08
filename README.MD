@@ -30,9 +30,13 @@ Note - Both of these methods of making in-game to real-world token conversions e
 
 ---
 
-# **Proposed Cryptomorrow Token Symbol**
+# **Proposed Cryptomorrow In-Game Token Symbol**
 
 ![](images/CryptomorrowTokenNoOutline.svg)
+
+# **Proposed Cryptomorrow Reinvestment Token Symbol**
+
+![](images/Cryptomorrow_Reinvestment_Token.svg)
 
 ---
 
