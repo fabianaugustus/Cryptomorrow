@@ -68,7 +68,7 @@ The Cryptomorrow escrow account will be funded by the sell of NFTs (digital art,
 
 #### **Draft rules for the multi-level board game "Dimension"**
 
-![](documents/Games/DimensionsRulesDraft.pdf)
+![](documents/Games/DimensionsRulesDraft.png)
 
 ---
 
