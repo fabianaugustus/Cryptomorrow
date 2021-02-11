@@ -1,7 +1,7 @@
 # Overview
 ---
 ## Description
-The scope of Cryptomorrow is to onboard and educate the next generation of cryptocurrency users through the use of games, books, music and any other form of entertainment that can be created, bought and traded on a blockchain network. Kids under the age of 18 (eighteen) will have to attain a parent or guardian's permission to play the game. Cryptomorrow will not only seek to encourage and educate the next generation about cryptocurrency, but also mitigate the issues that centralized monetary systems have created, are creating and will create. See the following link: https://duckduckgo.com/?q=the+threat+of+fiat+currencies&atb=v231-1&ia=web
+The scope of Cryptomorrow is to onboard and educate the next generation of cryptocurrency users through the use of games, books, music and any other form of entertainment that can be created, bought and traded on a blockchain network. Kids under the age of 18 (eighteen) will have to attain a parent or guardian's permission to play the game. Cryptomorrow, however is not just about games as it will also seek to encourage and educate the next generation about cryptocurrency, while also mitigating the issues that centralized monetary systems have created, are creating and will create. See the following link: https://duckduckgo.com/?q=the+threat+of+fiat+currencies&atb=v231-1&ia=web
 
 ## Goals
 1) Cryptomorrow will seek to incentivize the next generation of blockchain and cryptocurrency users. In this effort, Cryptomorrow will create games for kids under the age of 18 (eighteen) years that incentivize players with in-game tokens (CTIG) that mature into real-world tokens (ADA) once the player reaches the age of 18 (eighteen) years.
@@ -65,6 +65,10 @@ The Cryptomorrow escrow account will be funded by the sell of NFTs (digital art,
 
 #### **Prototype mechanical multi-level board**
 ![](images/DimensionsBoardProtype.png)
+
+#### **Draft rules for the multi-level board game "Dimension"**
+
+![](documents/Games/DimensionsRulesDraft.pdf)
 
 ---
 
