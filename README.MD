@@ -30,6 +30,12 @@ Note - Both of these methods of making in-game to real-world token conversions e
 
 ---
 
+## Mission and Vision Statements (Draft) for the Cryptomorrow ecosystem
+
+![](documents/MissionAndVisonStatementDraft.png)
+
+---
+
 # **Proposed Cryptomorrow In-Game Token Symbol**
 
 ![](images/CryptomorrowTokenNoOutline.svg)
