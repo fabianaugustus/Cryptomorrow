@@ -32,7 +32,7 @@ Note - Both of these methods of making in-game to real-world token conversions e
 
 ## Mission/Vision Statements and Responsibilities (Draft) for the Cryptomorrow ecosystem
 
-
+![](documents/MissionAndVisonStatementDraft.png)
 
 ---
 
