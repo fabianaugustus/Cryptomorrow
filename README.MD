@@ -113,7 +113,8 @@ The point of the game is to be the first to leave the room by solving the room's
 The rooms and puzzles will be age-appropriate as the prizes and puzzles will be more complex and geared towards players of various ages.
 
 **Images of a character from level one of the game "I Was First!"**
-![](images/GooBopvBigEyes.png)  ![](images/GooBopGreen.png)
+---
+![](images/GooBopvBigEyes.png)                      ![](images/GooBopGreen.png)
 
 **Flow chart for level one of the game "I Was First!"**
 ![](images/IWasFirst.png)
