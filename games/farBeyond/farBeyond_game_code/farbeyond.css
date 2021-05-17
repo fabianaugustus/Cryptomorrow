@@ -1,0 +1,143 @@
+body {
+    display: flex;
+}
+
+.farbeyond-container {
+    width: 500px;
+    height: 730px;
+    position: absolute;
+    left: 80px;
+}
+
+.border-left {
+    width: 90px;
+    height: 800px;
+    position: absolute;
+    background-color: white;
+    z-index: +3;
+    top: -20px;
+    left: -3px;
+
+}
+
+.border-right {
+    width: 320px;
+    height: 790px;
+    position: absolute;
+    background-color: white;
+    z-index: +2;
+    left: 580px;
+
+}
+
+.border-top {
+    width: 660px;
+    height: 50px;
+    position: absolute;
+    background-color: white;
+    z-index: +2;
+    top: -30px;
+}
+
+.border-bottom {
+    width: 660px;
+    height: 145px;
+    position: absolute;
+    background-color: white;
+    z-index: +3;
+    bottom: 2px;
+}
+
+.sky {
+    background-image: url('sky.png');
+    width: 500px;
+    height: 580px;
+    position: absolute;
+}
+
+.fabian {
+    background-image: url('son-of-fabian-two.png');
+    width: 60px;
+    height: 45px;
+    position: absolute;
+    z-index: +2;
+    
+}
+
+.houses {
+    background-image: url('houses.png');
+    width: 500px;
+    height: 150px;
+    position: absolute;
+    top: 500px;
+}
+
+.movinghouses {
+    background-image: url('movinghouses.png');
+    width: 500px;
+    height: 135px;
+    position: absolute;
+}
+
+.cloudone {
+    background-image: url('cloudone.png');
+    width: 100px;
+    height: 27px;
+    position: absolute;
+    z-index: +2;
+}
+
+.cloudtwo {
+    background-image: url('cloudtwo.png');
+    width: 100px;
+    height: 27px;
+    position: absolute;
+    z-index: +2;
+}
+
+.cloudthree {
+    background-image: url('cloudthree.png');
+    width: 100px;
+    height: 27px;
+    position: absolute;
+    z-index: +1;
+}
+
+.cloudfour {
+    background-image: url('cloudthree.png');
+    width: 75px;
+    height: 27px;
+    position: absolute;
+    z-index: +2;
+}
+
+.cloudfive {
+    background-image: url('cloudfive.png');
+    width: 75px;
+    height: 27px;
+    position: absolute;
+    z-index: +2;
+}
+.cloudsix {
+    background-image: url('cloudsix.png');
+    width: 75px;
+    height: 27px;
+    position: absolute;
+    z-index: +2;
+}
+
+.chimney {
+    background-image: url('chimney.png');
+    width: 60px;
+    height: 300px;
+    position: absolute;
+    z-index: +2;
+}
+
+.owls {
+    background-image: url('owls.png');
+    transform: rotate(10deg );
+    width: 60px;
+    height: 300px;
+    position: absolute;
+}
