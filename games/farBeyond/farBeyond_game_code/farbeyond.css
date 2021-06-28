@@ -10,22 +10,35 @@ body {
 }
 
 .border-left {
-    width: 90px;
-    height: 800px;
+    width: 75px;
+    height: 750px;
+    border-right: 10px solid blue;
     position: absolute;
     background-color: white;
     z-index: +3;
-    top: -20px;
+    top: 28px;
     left: -3px;
 
 }
 
+.block {
+    width: 600px;
+    height: 28px;
+    position: absolute;
+    background-color: white;
+    top: 0px;
+    left: 0px;
+    z-index: +3;
+}
+
 .border-right {
     width: 320px;
-    height: 790px;
+    height: 750px;
+    border-left: 10px solid blue;
     position: absolute;
     background-color: white;
     z-index: +2;
+    top: 28px;
     left: 580px;
 
 }
@@ -33,6 +46,7 @@ body {
 .border-top {
     width: 660px;
     height: 50px;
+    border-bottom: 10px solid blue;
     position: absolute;
     background-color: white;
     z-index: +2;
@@ -40,12 +54,22 @@ body {
 }
 
 .border-bottom {
-    width: 660px;
+    display: flex;
+    justify-content: center;
+    border-top: 10px solid blue;
+    border-bottom: 10px solid blue;
+    /* border: 10px solid #1C6EA4; */
+    align-items: center;
+    width: 500px;
     height: 145px;
+    color: #FF0000;
+    font-size: 53px;
+    font-weight: bold;
+    text-shadow: 10px 10px 15px darkblue;
     position: absolute;
-    background-color: white;
+    background-color: lightskyblue;
     z-index: +3;
-    bottom: 2px;
+    bottom: -40px;
 }
 
 .sky {
@@ -56,7 +80,7 @@ body {
 }
 
 .fabian {
-    background-image: url('son-of-fabian-two.png');
+    background-image: url('son-of-fabian.gif');
     width: 60px;
     height: 45px;
     position: absolute;
@@ -75,7 +99,7 @@ body {
 .movinghouses {
     background-image: url('movinghouses.png');
     width: 500px;
-    height: 135px;
+    height: 140px;
     position: absolute;
 }
 
@@ -140,4 +164,24 @@ body {
     width: 60px;
     height: 300px;
     position: absolute;
+}
+.score {
+    display: flex;
+    justify-content: center;
+    border-top: 10px solid blue;
+    border-bottom: 10px solid blue;
+    border-left: 10px solid blue;
+    border-right: 10px solid blue;
+    align-items: center;
+    width: 500px;
+    height: 65px;
+    color: #FF0000;
+    font-size: 53px;
+    font-weight: bold;
+    text-shadow: 10px 10px 15px darkblue;
+    position: absolute;
+    background-color: lightskyblue;
+    z-index: +3;
+    left: 600px;
+    top: 30px;
 }
